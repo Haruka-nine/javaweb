@@ -1,0 +1,8 @@
+# Project exclude paths
+/book/target/
+/cookie_session/target/
+/EL_JSTL/target/
+/jsp/target/
+/newweb/target/
+/servlet/target/
+/servlet02/target/
